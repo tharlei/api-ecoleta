@@ -1,4 +1,4 @@
 /node_modules
-/tmp
 src/database/database.sqlite
 /uploads/*.png
+src/database/database.sqlite-journal
